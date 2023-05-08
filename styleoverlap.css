@@ -1,0 +1,29 @@
+body{
+	background-color: #1f1c32;
+}
+
+
+div{
+	position: absolute;
+top:30%;
+left: 10%;
+transform: translate(-50, -50);
+width: 100;
+text-align: center;
+color: white;
+}
+
+
+div span{
+	font-size: 22vw;
+	font-weight: 800;
+	text-shadow: -0.08em 0.3em o.12em rgba(0,0,0,0.9);
+}
+div span:not(:first-child){
+	margin-left: -0.23em;
+}
+h1{
+	color: red;
+	width: 100%
+
+}
